@@ -17,6 +17,9 @@ import profile_pic from'./profile_pic.png'
 import dropdown_icon from'./dropdown_icon.svg'
 import group_profiles from'./group_profiles.png'
 import arrow_icon from'./arrow_icon.svg'
+import menu_icon from'./menu_icon.svg'
+import cross_icon from'./cross_icon.png'
+
 
 export const assets = {
     add_icon,
@@ -37,5 +40,7 @@ export const assets = {
     profile_pic,
     dropdown_icon,
     group_profiles,
-    arrow_icon
+    arrow_icon,
+    menu_icon,
+    cross_icon
 }
